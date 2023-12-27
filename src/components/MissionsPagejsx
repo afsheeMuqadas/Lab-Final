@@ -1,0 +1,11 @@
+import React from 'react'
+
+const MissionsPage = () => {
+  return (
+    <h1>
+      Missions
+    </h1>
+  )
+}
+
+export default MissionsPage
